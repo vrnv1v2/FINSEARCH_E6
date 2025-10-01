@@ -1,1 +1,1 @@
-Here, as a team of 4 we explored how to implement the Black Scholes Model to predict option premiums using the NIFTY50 Index for a short 20 month window!
+Here, as a team of 4 we explored how to implement the Black Scholes Model to predict option premiums using the NIFTY50 Index for a short 20 month window. We also looked at how well the Black Scholes model could preduct the prices of options for Apple Stock for In the Money, Out of the Money, and At the Money Options.
